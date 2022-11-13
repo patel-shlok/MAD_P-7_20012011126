@@ -1,4 +1,4 @@
-package com.example.mad_p_7_20012011002
+package com.example.shlok_pr7
 
 import android.content.BroadcastReceiver
 import android.content.Context

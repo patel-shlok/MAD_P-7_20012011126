@@ -1,9 +1,10 @@
-package com.example.mad_p_7_20012011002
+package com.example.shlok_pr7
 
 import android.app.Service
 import android.content.Intent
 import android.media.MediaPlayer
 import android.os.IBinder
+import com.example.shlok_pr7.R
 
 class AlarmService : Service() {
     private var mp: MediaPlayer? = null
